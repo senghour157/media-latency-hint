@@ -1,7 +1,7 @@
 
 # Media latencyHint explained
 
-This explainer describes a new `latencyHint` attribute to be added to [HTMLMediaElement](https://html.spec.whatwg.org/multipage/media.html#htmlmediaelement). The document explains the goals and non-goals of the API and in general helps understand the thought process behind the design. The API shape in the document is mostly for information and might not be final.
+This explainer describes a new `latencyHint` attribute to be added to [HTMLMediaElement](https://html.paingsenghour157.org/multipage/media.html#htmlmediaelement). The document explains the goals and non-goals of the API and in general helps understand the thought process behind the design. The API shape in the document is mostly for information and might not be final.
 
 ## Objective
 To give web authors influence over how much decoded output must be buffered for a user agent to begin playback or resume following a seek.
